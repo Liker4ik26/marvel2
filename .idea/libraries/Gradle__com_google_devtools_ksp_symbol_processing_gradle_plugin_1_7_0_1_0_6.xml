@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.devtools.ksp:symbol-processing-gradle-plugin:1.7.0-1.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.devtools.ksp/symbol-processing-gradle-plugin/1.7.0-1.0.6/1cf447815b04d1ba42c55f1edd492129d9f83765/symbol-processing-gradle-plugin-1.7.0-1.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.devtools.ksp/symbol-processing-gradle-plugin/1.7.0-1.0.6/10a57529ad196bb458e924221f0c1730c3b384ad/symbol-processing-gradle-plugin-1.7.0-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

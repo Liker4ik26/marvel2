@@ -26,8 +26,6 @@ class BuildConfigPlugin : Plugin<Project> {
             with(androidExtension) {
                 applyAndroidSettings(project)
                 applyBuildTypes()
-//                applySigningConfig(project)
-//                applyProguardSettings(project)
                 applyJava8(project)
                 applyBaseDependencies(project)
             }
@@ -49,16 +47,6 @@ class BuildConfigPlugin : Plugin<Project> {
                 dimension = "default"
         }
     }
-
-//    private fun BaseExtension.applySigningConfig(project: Project) {
-//        signingConfigs {
-//            create("internal") {
-//                storeFile = File("${project.rootDir}/internalKeystore/headlineskey")
-//                storePassword = "effectivepswd"
-//                keyAlias = "effectivekey"
-//                keyPassword = "effectivepswd"
-//            }
-//        }
     }
 
     private fun BaseExtension.applyProguardSettings(project: Project) {
@@ -109,11 +97,10 @@ class BuildConfigPlugin : Plugin<Project> {
             }
         }
     }
-
     private fun applyBaseDependencies(project: Project) {
         val libs = project.extensions.getByType<VersionCatalogsExtension>().named("libs")
         project.dependencies {
-//          add("implementation", libs.findLibrary("kotlinx-coroutines").get())
         }
     }
+
 }

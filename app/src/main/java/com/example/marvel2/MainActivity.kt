@@ -13,7 +13,7 @@ class MainActivity : ComponentActivity() {
         WindowCompat.setDecorFitsSystemWindows(window, false)
         setContent {
             Marvel2Theme {
-        AppHost()
+                AppHost()
             }
         }
     }

@@ -13,9 +13,15 @@ import androidx.compose.ui.platform.LocalView
 import androidx.core.view.WindowCompat
 import com.google.accompanist.systemuicontroller.rememberSystemUiController
 
-private val DarkColorPalette = darkColors(background = backgroundDark)
+private val DarkColorPalette = darkColors(
+    background = backgroundDark,
+    primary = Color.White
+)
 
-private val LightColorPalette = lightColors(background = backgroundLight)
+private val LightColorPalette = lightColors(
+    background = backgroundLight,
+    primary = Color.Black
+)
 
 @Composable
 fun Marvel2Theme(darkTheme: Boolean = isSystemInDarkTheme(), content: @Composable () -> Unit) {

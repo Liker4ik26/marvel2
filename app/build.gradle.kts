@@ -37,4 +37,5 @@ dependencies {
     implementation(libs.androidx.splashscreen)
 
     implementation(project(":screens:home"))
+
 }
