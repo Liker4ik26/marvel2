@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/104251391/198555105-de31fd10-4a5d-4547
 ## Who to contact with questions
 > **My GitHub:** [Angelica Semyonova](https://github.com/Liker4ik26)
 
->**My Telegram:** [Angelica Semyonova](@Liker4ik50)
+>**My Telegram:** [Angelica Semyonova](https://t.me/Liker4ik50)
 
 
 
