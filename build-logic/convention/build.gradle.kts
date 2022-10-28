@@ -20,6 +20,10 @@ gradlePlugin {
             id = "marvel.module.compose"
             implementationClass = "marvel.plugins.ComposeModulePlugin"
         }
+        register("dagger-module-plugin") {
+            id = "marvel.module.dagger"
+            implementationClass = "marvel.plugins.DaggerModulePlugin"
+        }
     }
 }
 dependencies {

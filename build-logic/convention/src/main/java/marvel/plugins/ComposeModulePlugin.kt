@@ -48,10 +48,7 @@ class ComposeModulePlugin: Plugin<Project> {
             add("debugImplementation", libs.findLibrary("androidx-compose-tooling").get())
 
             add("implementation", libs.findLibrary("accompanist-insets").get())
-            add("implementation", libs.findLibrary("accompanist-insets-ui").get())
             add("implementation", libs.findLibrary("accompanist-systemuicontroller").get())
-            add("implementation", libs.findLibrary("accompanist-switerefreshlayout").get())
-            add("implementation", libs.findLibrary("accompanist-placeholder").get())
 
             add("implementation", libs.findLibrary("coil-compose").get())
         }
