@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-klib-commonizer-api/1.7.0/fb21d7ada45112531e551413e7b5b551b1f97e17/kotlin-klib-commonizer-api-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-klib-commonizer-api/1.7.0/991aff3548056a4967d03a66a0886f968e925954/kotlin-klib-commonizer-api-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

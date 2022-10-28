@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/build-logic/build-logic.iml" filepath="$PROJECT_DIR$/.idea/modules/build-logic/build-logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/build-logic/convention/build-logic.convention.iml" filepath="$PROJECT_DIR$/.idea/modules/build-logic/convention/build-logic.convention.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/build-logic/convention/build-logic.convention.main.iml" filepath="$PROJECT_DIR$/.idea/modules/build-logic/convention/build-logic.convention.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/build-logic/convention/build-logic.convention.test.iml" filepath="$PROJECT_DIR$/.idea/modules/build-logic/convention/build-logic.convention.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/marvel2.iml" filepath="$PROJECT_DIR$/.idea/modules/marvel2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/marvel2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/marvel2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/marvel2.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/marvel2.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/marvel2.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/marvel2.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/marvel2.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/marvel2.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/marvel2.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/marvel2.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-ui/marvel2.core-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/core-ui/marvel2.core-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-ui/marvel2.core-ui.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core-ui/marvel2.core-ui.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-ui/marvel2.core-ui.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core-ui/marvel2.core-ui.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-ui/marvel2.core-ui.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core-ui/marvel2.core-ui.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/marvel2.core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/marvel2.core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/marvel2.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/marvel2.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/marvel2.core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/marvel2.core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/screens/marvel2.screens.iml" filepath="$PROJECT_DIR$/.idea/modules/screens/marvel2.screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/screens/home/marvel2.screens.home.iml" filepath="$PROJECT_DIR$/.idea/modules/screens/home/marvel2.screens.home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/screens/home/marvel2.screens.home.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/screens/home/marvel2.screens.home.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/screens/home/marvel2.screens.home.main.iml" filepath="$PROJECT_DIR$/.idea/modules/screens/home/marvel2.screens.home.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/screens/home/marvel2.screens.home.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/screens/home/marvel2.screens.home.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-compiler-runner:1.7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.7.0/bf501a7a29ca14e8d8ce6fdd7e1b7d2d278cbe53/kotlin-compiler-runner-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/1.7.0/bf8a2b8e5dd247405d9bfb67bcf4a80d927806f/kotlin-compiler-runner-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

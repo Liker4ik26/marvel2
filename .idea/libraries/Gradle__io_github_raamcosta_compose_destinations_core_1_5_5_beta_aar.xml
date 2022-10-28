@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.raamcosta.compose-destinations:core:1.5.5-beta@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/220f3fd65579d08a7a9c15c7930df55e/transformed/core-1.5.5-beta/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/220f3fd65579d08a7a9c15c7930df55e/transformed/core-1.5.5-beta/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.raamcosta.compose-destinations/core/1.5.5-beta/206835a97a57d957ce71c301d8b1769f95c66e45/core-1.5.5-beta-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.raamcosta.compose-destinations/core/1.5.5-beta/b518e9db6426b972790aed6e11aad4c96fcba024/core-1.5.5-beta-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

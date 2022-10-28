@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     id("marvel.module.screen")
+    id("marvel.module.dagger")
 }
 
 android {
@@ -31,10 +32,7 @@ dependencies {
     androidTestImplementation(libs.compose.test)
     androidTestImplementation(libs.compose.testManifest)
 
-    implementation(libs.byteBuddy)
-    implementation(libs.byteBuddyAndroid)
-
-    implementation(libs.androidx.splashscreen)
-
     implementation(project(":screens:home"))
+
+//    implementation(libs)
 }

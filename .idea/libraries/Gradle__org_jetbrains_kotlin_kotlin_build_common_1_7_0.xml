@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-build-common:1.7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.7.0/496762e1689fd70a5a46b48f322251b0226e4219/kotlin-build-common-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-common/1.7.0/ef0b29da1886859e9650e9f7b23221d01212f0da/kotlin-build-common-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
